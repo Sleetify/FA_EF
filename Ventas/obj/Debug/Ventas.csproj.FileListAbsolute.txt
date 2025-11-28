@@ -1,0 +1,9 @@
+C:\Users\UPN\Desktop\EF_XD\Ventas\bin\Debug\Ventas.dll
+C:\Users\UPN\Desktop\EF_XD\Ventas\bin\Debug\Ventas.pdb
+C:\Users\UPN\Desktop\EF_XD\Ventas\bin\Debug\REPORTES.dll
+C:\Users\UPN\Desktop\EF_XD\Ventas\bin\Debug\REPORTES.pdb
+C:\Users\UPN\Desktop\EF_XD\Ventas\obj\Debug\Ventas.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\EF_XD\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\EF_XD\Ventas\obj\Debug\Ventas.csproj.Up2Date
+C:\Users\UPN\Desktop\EF_XD\Ventas\obj\Debug\Ventas.dll
+C:\Users\UPN\Desktop\EF_XD\Ventas\obj\Debug\Ventas.pdb

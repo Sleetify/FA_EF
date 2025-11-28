@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\obj\Debug\Reportes.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\obj\Debug\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\bin\Debug\Menu_Reportes.dll
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\bin\Debug\Menu_Reportes.pdb
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\bin\Debug\REPORTES.dll
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\bin\Debug\Ventas.dll
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\bin\Debug\REPORTES.pdb
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\bin\Debug\Ventas.pdb
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\obj\Debug\Reportes.csproj.Up2Date
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\obj\Debug\Menu_Reportes.dll
+C:\Users\UPN\Desktop\EF_XD\Menu_Reportes\obj\Debug\Menu_Reportes.pdb

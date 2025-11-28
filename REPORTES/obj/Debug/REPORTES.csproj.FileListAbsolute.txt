@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\EF_XD\REPORTES\bin\Debug\REPORTES.dll
+C:\Users\UPN\Desktop\EF_XD\REPORTES\bin\Debug\REPORTES.pdb
+C:\Users\UPN\Desktop\EF_XD\REPORTES\obj\Debug\REPORTES.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\EF_XD\REPORTES\obj\Debug\REPORTES.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\EF_XD\REPORTES\obj\Debug\REPORTES.dll
+C:\Users\UPN\Desktop\EF_XD\REPORTES\obj\Debug\REPORTES.pdb

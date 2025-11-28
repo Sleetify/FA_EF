@@ -6,3 +6,10 @@ C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.exe
 C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.pdb
 C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.exe.config
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\Menu_Reportes.dll
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\REPORTES.dll
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\Ventas.dll
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\Menu_Reportes.pdb
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\REPORTES.pdb
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\Ventas.pdb
+C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.csproj.Up2Date
