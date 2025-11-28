@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\EF-.exe.config
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\EF-.exe
+C:\Users\UPN\Desktop\EF_XD\EF-\bin\Debug\EF-.pdb
+C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.exe
+C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.pdb
+C:\Users\UPN\Desktop\EF_XD\EF-\obj\Debug\EF-.exe.config
